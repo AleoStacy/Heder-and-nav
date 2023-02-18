@@ -1,0 +1,31 @@
+*{
+  padding: 0px;
+  margin: 0px;
+}
+.borrow{
+  background-color: rgb(92, 87, 87);
+  width: 100%;
+  height: 100px;
+}
+.borrow h1 {
+  color: antiquewhite;
+  margin: 31px 0;
+  text-align: left;
+  line-height: 38px;
+  padding: 0 20px 0 40px;
+  float: left;
+  border-right: 3px solid antiquewhite;
+}
+.borrow nav a{
+  margin: 10px 0px 0px 10px;
+  float: right;
+  padding: 30px;
+  font-size: 20px;
+  text-decoration: none;
+  color: antiquewhite;
+}
+.container{
+  background-color: azure;
+  width: 700px;
+  margin: auto
+}
